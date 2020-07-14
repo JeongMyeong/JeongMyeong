@@ -4,9 +4,19 @@
 
 </div>
 
-[![github](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/jeongmyeong) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jeong5905@gmail.com)
+[![github](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/jeongmyeong)](https://github.com/jeongmyeong) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeong5905@gmail.com)](mailto:jeong5905@gmail.com)
 </div>
+
+- 이름 : 최정명  
+- 이메일 : jeong5905@gmail.com  
+- 관심 분야 : 데이터 분석, 자연어처리  
+- 학력
+  - 한림대학교 일반대학원 융합소프트웨어학과 석사(재)
+  - 한림대학교 컴퓨터공학과 학사 (졸)
+
+
+
 
 
 <!--

@@ -27,7 +27,7 @@
     - 위성관측 데이터 활용 강수량 산출 AI 경진대회 (2/213 2위 수상)
     - 생체 광학 데이터 분석 AI 경진대회 (11/316 Top3%)
     - 공공 데이터 활용 전력수요 및 SMP 예측 AI 경진대회 (2/62 2위 수상)
-
+    - 진동 데이터 활용 충돌체 탐지 AI 경진대회 (8/227 Top 3%)
 
 <!--
 **JeongMyeong/JeongMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

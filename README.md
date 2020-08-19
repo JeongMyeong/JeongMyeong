@@ -10,13 +10,16 @@
 
 - 이름 : 최정명  
 - 이메일 : jeong5905@gmail.com  
-- 관심 분야 : 데이터 분석, 자연어처리  
+- 관심 분야 : 데이터 분석, 자연어처리
 - 학력
   - 한림대학교 일반대학원 융합소프트웨어학과 석사(재)
   - 한림대학교 컴퓨터공학과 학사 (졸)  
   
 - 데이터 분석 대회
   - Kaggle
+    - Humpback Whale Identification (3638/8802 Top 42%)
+    - ASHRAE - Great Energy Predictor III (1011/3614 Top 28%)
+    - Santander Customer Transaction Prediction (3638/8802 Top 42%)
   - Dacon
     - 금융문자 분석 경진대회 (153/372 Top 41%)
     - 퇴근 시간 버스승차인원 예측 경진대회 (32/258 Top 12%)
@@ -28,7 +31,7 @@
     - 생체 광학 데이터 분석 AI 경진대회 (11/316 Top3%)
     - 공공 데이터 활용 전력수요 및 SMP 예측 AI 경진대회 (2/62 2위 수상)
     - 진동 데이터 활용 충돌체 탐지 AI 경진대회 (8/227 Top 3%)
-
+  
 <!--
 **JeongMyeong/JeongMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

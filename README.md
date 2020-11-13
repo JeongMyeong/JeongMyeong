@@ -33,6 +33,7 @@
     - 진동 데이터 활용 충돌체 탐지 AI 경진대회 (8/227 Top 3%)
     - 컴퓨터 비전 학습 경진 대회[변형 MNIST] (18/356 Top 5%) 
     - 산업제어시스템 보안위협 탐지 AI 경진대회 (21/267 Top 8%)
+    - 공공데이터 활용 수력 댐 강우예측 AI 경진대회 (12/132 Top 9%)
 <!--
 **JeongMyeong/JeongMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,9 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeong5905@gmail.com)](mailto:jeong5905@gmail.com)
 </div>
 
-안녕하세요. 저는 데이터를 이렇게 저렇게 돌리고 볶고 만져보는 것을 좋아합니다.
-현재는 NLP, Vision, Tabular data 모두 경험해 보고 있고 관심이 있습니다.
-관심이 많은 만큼 다양한 분석대회에 참가하여 배워보고 있습니다.
+안녕하세요. 저는 데이터를 이렇게 저렇게 돌리고 볶고 만져보는 것을 좋아합니다.  
+현재는 NLP, Vision, Tabular data 모두 경험해 보고 있고 관심이 있습니다.  
+관심이 많은 만큼 다양한 분석대회에 참가하여 배워보고 있습니다.  
+
 
 
 - 이름 : 최정명  

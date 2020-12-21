@@ -8,6 +8,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeong5905@gmail.com)](mailto:jeong5905@gmail.com)
 </div>
 
+안녕하세요. 저는 데이터를 이렇게 저렇게 돌리고 볶고 만져보는 것을 좋아합니다.
+현재는 NLP, Vision, Tabular data 모두 경험해 보고 있고 관심이 있습니다.
+관심이 많은 만큼 다양한 분석대회에 참가하여 배워보고 있습니다.
+
+
 - 이름 : 최정명  
 - 이메일 : jeong5905@gmail.com  
 - 관심 분야 : 데이터 분석, 자연어처리
@@ -34,6 +39,10 @@
     - 컴퓨터 비전 학습 경진 대회[변형 MNIST] (18/356 Top 5%) 
     - 산업제어시스템 보안위협 탐지 AI 경진대회 (21/267 Top 8%)
     - 공공데이터 활용 수력 댐 강우예측 AI 경진대회 (12/132 Top 9%)
+    - 딥페이크 변조 영상 탐지 AI 경진대회 (46/68 67%)
+    - 랜드마크 분류 AI 경진대회 (24/82 26%)
+    - 소설 작가 분류 AI 경진대회 (89/287 31%)
+    
 <!--
 **JeongMyeong/JeongMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

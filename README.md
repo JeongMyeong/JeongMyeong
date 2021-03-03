@@ -45,6 +45,7 @@ NLP, Vision, Tabular data 모두 경험해 보고 있고 관심이 있습니다.
     - 랜드마크 분류 AI 경진대회 (24/82 26%)
     - 소설 작가 분류 AI 경진대회 (89/287 31%)
     - 한국어 문서 추출요약 AI 경진대회(10/61 16%)
+    - 진짜/가짜 뉴스 분류 경진대회 (입선/192)
 <!--
 **JeongMyeong/JeongMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

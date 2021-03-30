@@ -28,6 +28,7 @@ NLP, Vision, Tabular data 모두 경험해 보고 있고 관심이 있습니다.
     - ASHRAE - Great Energy Predictor III (1011/3614 Top 28%)
     - Santander Customer Transaction Prediction (3638/8802 Top 42%)
   - Dacon
+  
   |대회명|순위|상위|
   |------|----|----|
   |금융문자 분석 경진대회|153/372|41%|
